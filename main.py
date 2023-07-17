@@ -1,7 +1,7 @@
 import telebot
 from token_api import token
 
-chat_id = 1166287745
+chat_id = 1887245215
 bot = telebot.TeleBot(token)  # Crea un nuevo bot usando el API_KEY que nos dio @bot_father
 
 
